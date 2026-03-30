@@ -1089,11 +1089,6 @@
     "gameUrl": "PianoTiles_Game",
     "thumbnailUrl": "Piano_Tiles.webp"
   },
-  "248": {
-    "gameTitle": "CareTaker",
-    "gameUrl": "CareTaker",
-    "thumbnailUrl": "CareTaker.webp"
-  },
   "249": {
     "gameTitle": "UNO",
     "gameUrl": "UNO",
@@ -2194,11 +2189,6 @@
     "gameUrl": "Ganesh QR Maker",
     "thumbnailUrl": "Ganesh QR Maker.png"
   },
-  "494": {
-    "gameTitle": "Go Fish Master",
-    "gameUrl": "Go-fish-master",
-    "thumbnailUrl": "Go-fish-master.png"
-  },
   "495": {
     "gameTitle": "Gobblet",
     "gameUrl": "Gobblet",
@@ -2328,11 +2318,6 @@
     "gameTitle": "Magic 8 Ball",
     "gameUrl": "Magic_8_ball",
     "thumbnailUrl": "Magic_8_ball.png"
-  },
-  "526": {
-    "gameTitle": "Makeover Game",
-    "gameUrl": "Makeover_Game",
-    "thumbnailUrl": "Makeover_Game.png"
   },
   "527": {
     "gameTitle": "Mamba_Mayhem",
@@ -2563,11 +2548,6 @@
     "gameTitle": "Shell Game",
     "gameUrl": "Shell_Game",
     "thumbnailUrl": "Shell_Game.png"
-  },
-  "578": {
-    "gameTitle": "Shoot Duck Game",
-    "gameUrl": "Shoot_Duck_Game",
-    "thumbnailUrl": "Shoot_Duck_Game.png"
   },
   "579": {
     "gameTitle": "Simon Says",
